@@ -16926,6 +16926,17 @@
           "SHELVES": "Shelves"
         }
       },
+	  "HUBS":{
+		  "OBJECTS":{
+			  "INCLUSIVE":{
+				  "SINGULAR":"Hub",
+				  "PLURAL":"Hubs",
+			  }
+		  },
+		  "PHRASES":{
+			  "DESCRIPTION":"Central point to navigate from."
+		  }
+	  },
       "HUES": {
         "[META]": {
           "[LAST_EDITED]": "[v24.12.19.00]",
